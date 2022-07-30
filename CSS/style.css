@@ -370,7 +370,7 @@ body .tiendaGrilla .prodGrilla .prodCard .buttonPrd{
 }
 
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 0px) {
     #cuerpoBody{
         grid-template-columns: auto;
         grid-template-rows: 15% 4% 4% auto 10%;
@@ -402,7 +402,7 @@ body .tiendaGrilla .prodGrilla .prodCard .buttonPrd{
 
 
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 700px) {
     #cuerpoBody{
         grid-template-columns: auto;
         grid-template-rows: 20% 15% 7% auto 10%;
@@ -458,7 +458,7 @@ body .tiendaGrilla .prodGrilla .prodCard .buttonPrd{
 }
 
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 0px) {
     #cuerpoBody2{
         grid-template-columns: auto;
         grid-template-rows: 15% 9% 5% auto 10%;
@@ -490,7 +490,7 @@ body .tiendaGrilla .prodGrilla .prodCard .buttonPrd{
 
 
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 700px) {
     #cuerpoBody2{
         grid-template-columns: auto;
         grid-template-rows: 20% 21% 8% auto 10%;
@@ -546,7 +546,7 @@ body .tiendaGrilla .prodGrilla .prodCard .buttonPrd{
 }
 
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 0px) {
     #cuerpoBody3{
         grid-template-columns: auto;
         grid-template-rows: 15% 19% 7% auto 10%;
@@ -578,7 +578,7 @@ body .tiendaGrilla .prodGrilla .prodCard .buttonPrd{
 
 
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 700px) {
     #cuerpoBody3{
         grid-template-columns: auto;
         grid-template-rows: 20% 19% 8% auto 10%;
@@ -635,7 +635,7 @@ body .tiendaGrilla .prodGrilla .prodCard .buttonPrd{
 }
 
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 0px) {
     #cuerpoBody4{
         grid-template-columns: auto;
         grid-template-rows: 15% 13% 6% auto 10%;
@@ -671,7 +671,7 @@ body .tiendaGrilla .prodGrilla .prodCard .buttonPrd{
 
 
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 700px) {
     #cuerpoBody4{
         grid-template-columns: auto;
         grid-template-rows: 20% 10% 6% auto 10%;
@@ -729,7 +729,7 @@ body .tiendaGrilla .prodGrilla .prodCard .buttonPrd{
 }
 
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 0px) {
     #cuerpoBody5{
         grid-template-columns: auto;
         grid-template-rows: 27% 0% 6% auto 10%;
@@ -765,7 +765,7 @@ body .tiendaGrilla .prodGrilla .prodCard .buttonPrd{
 
 
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 700px) {
     #cuerpoBody5{
         grid-template-columns: auto;
         grid-template-rows: 28% 0% 6% auto 10%;
@@ -822,7 +822,7 @@ body .tiendaGrilla .prodGrilla .prodCard .buttonPrd{
 }
 
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 0px) {
     #cuerpoBody6{
         grid-template-columns: auto;
         grid-template-rows: 11% 2% 3% auto 10%;
@@ -881,7 +881,7 @@ body .tiendaGrilla .prodGrilla .prodCard .buttonPrd{
 
 
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 700px) {
     #cuerpoBody6{
         grid-template-columns: auto;
         grid-template-rows: 21% 0% 4% auto 10%;
