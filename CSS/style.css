@@ -54,6 +54,11 @@ header .rowNav nav .navText{
     font-weight: bold;
 }
 
+header .rowNav nav .navText:hover{
+    color: dimgrey;
+    font-weight: 900;
+}
+
 header .rowNav nav ul li{
     display: inline-block;
     margin-right: 25px;
@@ -81,12 +86,25 @@ body .cuerpo .servicios .card{
     border: 4px solid rgb(28, 149, 28);
     text-align: center;
     padding-bottom: 10px;
+    overflow: hidden;
+       
 }
 
 body .cuerpo .servicios .card .cardImg{
     height: 180px;
     padding: 10px 5px 10px 5px;
+    transition: all 2s;
+   
 }
+
+body .cuerpo .servicios .card .cardImg:hover{
+    transform: scale(1.5);
+}
+
+body .cuerpo .servicios .card:hover {
+    border: 4px solid orangered
+}
+
 
 body .cuerpo .servicios .card .cardTxt{
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
